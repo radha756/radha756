@@ -28,7 +28,6 @@
 Here are some of the projects I’ve worked on:
 
 - 🛍 *E-Commerce Website* – Product listings, cart, and payment system
-- 💬 *Chat App* – Real-time messaging with status and media support
 - 🖼 *Portfolio Website* – Responsive and animated portfolio to showcase my skills
 - 🔐 *Password Tools* – Strength checker, generator & toggler
 
